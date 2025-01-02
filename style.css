@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+a {
+    color: green;
+}
+
+h3 {
+    color: green;
+}
+
+body {
+    text-align: center;
+    background-color: beige
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+ol {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
